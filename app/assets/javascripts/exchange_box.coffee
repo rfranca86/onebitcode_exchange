@@ -15,7 +15,7 @@ update_cot = ->
     return false;
 
 $(document).ready ->
-  $("#quantity").change ->
+  $("#quantity").keyup ->
     update_cot()
   $("#currency").change ->
     update_cot()
