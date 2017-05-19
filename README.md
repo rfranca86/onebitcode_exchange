@@ -4,6 +4,7 @@
 ![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 ![ruby](https://img.shields.io/badge/Ruby-2.4.1-red.svg)
 ![rails](https://img.shields.io/badge/Rails-5.1.0-red.svg)
++[ ![Codeship Status for eggheadio/egghead-instructor-center](https://app.codeship.com/projects/009059c0-129b-0135-d2e7-5226724461cf/status?branch=master)]
 
 ## About
 
